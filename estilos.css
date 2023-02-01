@@ -1,0 +1,36 @@
+html{
+    margin: 0;
+    padding: auto;
+    background-color: midnightblue;
+    color: white;
+}
+
+div,img,ul{
+    text-align: center;
+    
+    color: white;
+}
+h4{
+    color:white;
+}
+a{
+    color:white; 
+    text-align: center;
+}
+
+body{
+    width: 80%;
+    margin: 10px auto;
+}
+
+footer,header{
+    text-align: center;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 0px 10px;
+    padding: 4px 10px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+}
